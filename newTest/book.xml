@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="book.xsl"?>
+<guestbook>
+  <guest>
+    <name>dsad</name>
+    <email>adsas2@asd.pl</email>
+    <inscription>asddas</inscription>
+  </guest>
+  <guest>
+    <name>siemq</name>
+    <email>jan.idzi1@gmail.com</email>
+    <inscription>aadjkld</inscription>
+  </guest>
+</guestbook>
